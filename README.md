@@ -3,7 +3,7 @@ These instructions will help you set up and run the app on your local machine.
 
 ### Prerequisites
 Before you begin, make sure you have the following installed:
-- Node.js (at least version 12)
+- Node.js
 - npm (Node Package Manager)
 
 ## How to Run
